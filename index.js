@@ -1,5 +1,5 @@
-let greeting = ('Hello, ');
-let question = ('How are you?')
+let greeting = 'Hello, ';
+let question = 'How are you?'
 const message = 'Enter your name';
 const confirmResult = prompt(message, '');
 
